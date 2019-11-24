@@ -18,3 +18,10 @@ var codeing_laguage=["python", "swift", "c/c++", "c#"]
 print(codeing_laguage[0])
 
 print("Bye, Playground!")
+
+var a = 90
+var b = 91
+var c = a+b
+c
+print(c)
+
