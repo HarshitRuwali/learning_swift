@@ -19,7 +19,7 @@ while square < finalSquare{
     
     if square < board.count {
     // if we're still on the board, move up or down for a snake or a ladder
-        square += board[square]
+        square = square + board[square]
     }
 }
 print("Game Over!")

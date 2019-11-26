@@ -343,7 +343,7 @@
 				B5B6ACEA238ADFAB00BD43E6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		B5B6ACEB238ADFAB00BD43E6 /* Build configuration list for PBXNativeTarget "Tic Tac Toe" */ = {
 			isa = XCConfigurationList;
@@ -352,7 +352,7 @@
 				B5B6ACED238ADFAB00BD43E6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 /* End XCConfigurationList section */
 
